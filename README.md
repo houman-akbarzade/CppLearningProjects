@@ -22,4 +22,4 @@ A collection of C++ projects created for learning purposes. Covers data structur
 این پروژه تحت مجوز MIT منتشر شده است.
 
 **نویسنده:**
-[نام شما]
+هومن اکبرزاده
